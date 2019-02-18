@@ -1,0 +1,22 @@
+.cocktail-card {
+  margin: 15px auto;
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+  background-size: cover;
+  background-color: $silver-pink;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-image: url("image.jpg");
+}
+
+.cocktail-card h3 {
+  font-style: $headers-font;
+  font-size: 15px;
+  color: $dark-sky-blue;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
